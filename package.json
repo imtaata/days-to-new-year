@@ -1,0 +1,13 @@
+{
+  "name": "days-to-new-year",
+  "version": "1.0.0",
+  "main": "index.js",
+ "scripts": {
+  "start": "node index.js"
+}
+,
+  "keywords": [],
+  "author": "Kiseleva T.N.",
+  "license": "ISC",
+  "description": ""
+}
